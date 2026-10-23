@@ -1,0 +1,6 @@
+{
+  "name": "SentinelHealth AI",
+  "description": "Explainable, privacy-preserving population and occupational health early-warning platform combining environmental, healthcare-service, and workplace signals.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
